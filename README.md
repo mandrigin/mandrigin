@@ -1,39 +1,35 @@
-[My Website](https://www.ffconsulting.org)
+[Gateway.fm](https://gateway.fm) / [Open Privacy Suite](https://gateway.fm/open-privacy-suite/) / [My Website](https://www.ffconsulting.org)
 
-I'm an experienced software engineer with passion for security. I’m based in Sweden 🇸🇪 (CET/CEST) but I work remotely 🌎.
+I am CTPO and co-founder at [Gateway.fm](https://gateway.fm), where we build infrastructure for institutions moving finance onchain.
 
-I help companies, that don't have a budget or need for a full-time security lead, to protect data, IP and money.
+My work sits at the intersection of Ethereum infrastructure, security, privacy, and regulated financial systems. These days I am focused on:
 
-I can help you to:
+## Building Gateway.fm
 
-## BUILD MORE SECURE PRODUCTS
+Gateway helps institutions launch and operate onchain products: stablecoin payments, tokenized assets, treasury flows, rollups, RPC, indexing, privacy, and compliance infrastructure.
 
-I help companies to introduce best practices of secure product development. 
+I work across product, engineering, and protocol architecture: turning hard infrastructure problems into systems that can run in production for banks, fintechs, ecosystems, and Web3 builders.
 
-I review critical parts of code and infrastructure. I set up automated security checks for the languages and frameworks you are using.
+## Open Privacy Suite
 
-I teach and facilitate threat modelling (STRIDE) and risk assessment sessions for the features and releases.
+I am currently spending a lot of time on privacy infrastructure for EVM chains.
 
-I register the code in bug bounty programs. 
+[Open Privacy Suite](https://gateway.fm/open-privacy-suite/) is an open, vendor-lock-in-free privacy layer for public and private EVM networks. It includes a JSON-RPC privacy proxy, role-based access control, selective disclosure, compliance tooling, audit trails, and a privacy-aware block explorer.
 
-I help prepare the product for security audits, find the right company to do that and create action items from their report.
+The goal is practical privacy: organizations should be able to use Ethereum-compatible infrastructure while controlling who can see what, proving what happened, and meeting real operational and regulatory requirements.
 
-I also help with security budget, so you don't spend money on what you don't need.
+## Ethereum and rollup infrastructure
 
-## IMPROVE SECURITY OF WORK PROCESSES
+I have been working on Ethereum and blockchain infrastructure since 2017: execution clients, rollups, RPC systems, tracing, access control, and production operations.
 
-I help you to adjust settings of your email/calendar and web meetings applications. 
+Before Gateway.fm I worked with teams and projects including Ethereum Foundation / Erigon, Status, StarkWare, and Opera Software.
 
-I can setup 2FA on your services and connect them to YubiKeys for protection and convenience.
+## What I care about
 
-I setup access, so employees have the right amount of access to do their job efficently. 
+- Secure and scalable infrastructure
+- Clear product boundaries for complex systems
+- Privacy-preserving applications that are usable in production
+- Open standards and avoiding vendor lock-in
+- Building teams that can ship and operate critical systems
 
-I setup a program that trains your employees to recognize fake emails.
-
-I know how to protect workplace in 100% remote and WFH-first organizations.
-
-## LIMITATIONS
-
-If you are a big company with your own security department, I can offer you an independent second opinion.
-
-I'm the most comfortable with mobile SDKs (Android/iOS/React Native) and with Go/JS/AWS. Other tech stacks might take some time to get me up to speed.
+I am based in Gothenburg, Sweden, and work with a distributed team.
