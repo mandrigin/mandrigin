@@ -57,5 +57,3 @@ Separate from my Ethereum and Gateway work, I still build small tools for myself
 - Open standards and avoiding vendor lock-in
 - AI-assisted engineering that improves real delivery, not just screenshots
 - Building teams that can ship and operate critical systems
-
-I am based in Gothenburg, Sweden, and work with a distributed team.
