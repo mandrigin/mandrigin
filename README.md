@@ -47,6 +47,7 @@ I care less about demos and more about whether AI helps teams ship better system
 Separate from my Ethereum and Gateway work, I still build small tools for myself, usually with a strong bias toward local-first behavior, privacy, and deliberately constrained product design.
 
 - [LE FLAC](https://github.com/mandrigin/leflac) - a local-first FLAC player for Android / Nothing Phone, with no network permission, no accounts, and no telemetry.
+- [req-of-funds](https://github.com/mandrigin/req-of-funds) - a macOS menu bar app for small-consultancy money paperwork: classifying incoming bills with on-device or local AI, tracking them until paid, generating outgoing invoices, and preparing the monthly accountant report.
 - [Interfast](https://github.com/mandrigin/interfast) - a small intermittent fasting app that works as a private local scheduler instead of a tracker.
 
 ## What I care about
