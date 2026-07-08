@@ -38,9 +38,11 @@ Earlier mobile and platform work included browser, mobile runtime, and energy-ef
 
 ## AI-native development
 
-I use AI agents and AI-native development workflows as part of how I build: product exploration, implementation, code review, security analysis, documentation, and fast prototyping.
+I build with AI agents as a core part of how I work — not as autocomplete, but as an orchestrated fleet: parallel agents for implementation, review, security analysis, test-writing, and full end-to-end certification.
 
-I care less about demos and more about whether AI helps teams ship better systems with clearer interfaces, better tests, and fewer hidden assumptions.
+The interesting problem isn't generating code — it's making AI-generated code **production-ready**, and I've built my workflow around that. I treat every AI output as a claim to verify against source-of-truth (specs, on-chain behaviour, real test runs), run adversarial review over AI-suggested changes, and gate everything behind production rigor — real end-to-end tests and loadtests, exact-block completeness checks, and no "green" on a flaky or false-passing test. Just as important is designing around where AI *fails*: confident wrong answers, plausible-but-broken reasoning, and long tasks that quietly stall.
+
+Done this way, AI stops being a demo and becomes a way to ship and operate critical infrastructure with clearer interfaces, better tests, and fewer hidden assumptions.
 
 ## Hobby tools and personal experiments
 
