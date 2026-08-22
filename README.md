@@ -1,4 +1,4 @@
-[Gateway.fm](https://gateway.fm) / [Open Privacy Suite](https://gateway.fm/open-privacy-suite/) / [My Website](https://www.ffconsulting.org)
+[Gateway.fm](https://gateway.fm) / [Open Privacy Suite](https://gateway.fm/open-privacy-suite/) / [My Website](https://255c.org)
 
 I am CTPO and co-founder at [Gateway.fm](https://gateway.fm), where we build infrastructure for institutions moving finance onchain.
 
@@ -22,7 +22,7 @@ The goal is practical privacy: organizations should be able to use Ethereum-comp
 
 I have been working on Ethereum and blockchain infrastructure since 2017: execution clients, rollups, RPC systems, tracing, access control, and production operations.
 
-Earlier research work included Stateless Ethereum and state growth: [Stateless Ethereum: Binary Tries Experiment](https://medium.com/@mandrigin/stateless-ethereum-binary-tries-experiment-b2c035497768), [Semi-Stateless Initial Sync Experiment](https://medium.com/@mandrigin/semi-stateless-initial-sync-experiment-897cc9c330cb), [ReGenesis Explained](https://medium.com/@mandrigin/regenesis-explained-97540f457807), [KV-Witness](https://medium.com/@mandrigin/kv-witness-8985168537f9), transaction witnesses, binary tries, witness sizing, and experiments around reducing the operational cost of full nodes.
+Earlier research work included Stateless Ethereum and state growth: [Stateless Ethereum: Binary Tries Experiment](https://255c.org/writing/stateless-ethereum-binary-tries/), [Semi-Stateless Initial Sync Experiment](https://255c.org/writing/semi-stateless-initial-sync/), [ReGenesis Explained](https://255c.org/writing/regenesis-explained/), [KV-Witness](https://255c.org/writing/kv-witness/), transaction witnesses, binary tries, witness sizing, and experiments around reducing the operational cost of full nodes. The witness thread runs on: [Stateful vs stateless ZK proving](https://255c.org/notes/stateful-vs-stateless-zk-proving/).
 
 Public Ethereum research and infrastructure artifacts:
 
@@ -34,7 +34,7 @@ Public Ethereum research and infrastructure artifacts:
 
 Before Gateway.fm I worked with teams and projects including Ethereum Foundation / Erigon, Status, StarkWare, and Opera Software.
 
-Earlier mobile and platform work included browser, mobile runtime, and energy-efficiency engineering, including writing on [Mobile Energy Efficiency BOK](https://medium.com/@mandrigin/mobile-energy-efficiency-bok-dce36f3787f7).
+Earlier mobile and platform work included browser, mobile runtime, and energy-efficiency engineering, including writing on [Mobile Energy Efficiency BOK](https://255c.org/writing/mobile-energy-efficiency-bok/).
 
 ## AI-native development
 
